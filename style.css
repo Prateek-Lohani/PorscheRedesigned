@@ -97,7 +97,6 @@ html,body{
     grid-column: 3;
     grid-row: 1/4;
     padding:25px;
-    margin-top:15px;
 }
 
 .right video {
@@ -204,7 +203,7 @@ html,body{
     .right{
         grid-column: 1/4;
         grid-row: 4/6;
-        margin-top: 30px;
+        margin-top: 38px;
         padding:50px 20px;
     }
     
