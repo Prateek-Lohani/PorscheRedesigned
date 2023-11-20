@@ -202,7 +202,8 @@ html,body{
     
     .right{
         grid-column: 1/4;
-        grid-row: 4/4;
+        grid-row: 4/6;
+        margin-top: 30px;
     }
     
     .right video{
@@ -215,7 +216,7 @@ html,body{
     
     .right i{
        
-        top:55%;
+        top:58%;
         left:52%;
         padding: 20px;
        
