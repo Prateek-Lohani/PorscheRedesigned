@@ -203,7 +203,7 @@ html,body{
     .right{
         grid-column: 1/4;
         grid-row: 4/6;
-        margin-top: 10vh;
+        margin-top: 5vh;
         padding:50px 20px;
     }
     
