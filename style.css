@@ -97,6 +97,7 @@ html,body{
     grid-column: 3;
     grid-row: 1/4;
     padding:25px;
+    margin-top:15px;
 }
 
 .right video {
