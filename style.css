@@ -203,8 +203,6 @@ html,body{
     .right{
         grid-column: 1/4;
         grid-row: 4/4;
-        
-        background-color: blueviolet;
     }
     
     .right video{
@@ -216,19 +214,12 @@ html,body{
     }
     
     .right i{
-        background-color:rgb(16, 16, 148);
-        border-radius: 50%;
-        box-shadow: 0.2px 0.2px 0 1px white;
-        position: absolute;
-        top:50%;
+       
+        top:55%;
         left:52%;
         padding: 20px;
-        display: flex;
-        font-size: 20px;
-        align-items: center;
-        justify-content: center;
-        color: rgb(255, 255, 255);
-        transform: translate(-50%,-50%);
+       
+        transform: translate(-50%,-50%) rotate(90deg);
     }
     
     .right i:hover{
