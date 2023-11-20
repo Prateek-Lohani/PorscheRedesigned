@@ -217,8 +217,8 @@ html,body{
     
     .right i{
        
-        top:62%;
-        left:52%;
+        top:50vh;
+        left:50vw;
         padding: 20px;
        
         transform: translate(-50%,-50%) rotate(90deg);
