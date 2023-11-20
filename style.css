@@ -172,7 +172,7 @@ html,body{
     
     .left-center{
         grid-column: 1/3;
-        padding:150px;
+        padding:40px;
         font-family:"SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
     }
     
@@ -192,7 +192,7 @@ html,body{
     
     .left-bottom{
        grid-column: 1/3;
-        padding: 25px;
+        padding: 50px;
     }
     
     .left-bottom p{
